@@ -1,7 +1,6 @@
 {
   "titleNameMap": {
-    "educationList": "教育背景",
-    "workExpList": "工作经历",
+    "workExpList": "教育背景",
     "projectList": "项目经验",
     "skillList": "个人技能",
     "awardList": "更多信息",
@@ -20,17 +19,6 @@
     "zhihu": "https://www.zhihu.com/people/visiky",
     "workExpYear": ""
   },
-  "educationList": [
-    {
-      "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
-      ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
-    }
-  ],
   "awardList": [
     {
       "award_info": "英语 CET6",
